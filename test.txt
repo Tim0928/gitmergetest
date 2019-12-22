@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-1234 local git line
-=======
-git new line on remote
->>>>>>> 352a3e20a285e64af3bc875a2fe2c284959c831d
+1234 git new line on remote add local to merge
