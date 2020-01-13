@@ -1,4 +1,4 @@
 01234 git new line on remote add local to merge
-poi remote master change
-poi poi master change2
-poi remote master change3
+boe remote master change
+boe poi master change2
+boe remote master change3
